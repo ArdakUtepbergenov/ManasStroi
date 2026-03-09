@@ -152,7 +152,7 @@ async function loadMaterials() {
 
   try {
 
-    const res = await fetch('materials.json?v=' + Date.now());
+    const res = await fetch('data/materials.json?v=' + Date.now());
     let materials = await res.json();
 
     if (isHomePage) {
