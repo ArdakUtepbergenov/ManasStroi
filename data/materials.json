@@ -16,7 +16,7 @@
       "price": "4500",
       "unit": "м²",
       "description": "Высококачественная бесцветная брусчатка хайтек. Толщина хайтек 4 см.",
-      "image": "data/hitech_bescvet.jpg"
+      "image": "data/hitech_bescvet.png"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "price": "4500",
       "unit": "м²",
       "description": "Бесцветная брусчатка Тасқала. Толщина 4 см.",
-      "image": "data/taskala_bescvet.jpg"
+      "image": "data/taskala_bescvet.png"
     },
     {
       "id": 5,
