@@ -6,7 +6,7 @@ if (header) {
   });
 }
 
-// ─── MOBILE MENU ─────────────────────────────────────────
+// ─── MOBILE MENU ─────h────────────────────────────────────
 function initMobileMenu() {
   const toggle = document.querySelector('.menu-toggle');
   const mobileNav = document.querySelector('.mobile-nav');
