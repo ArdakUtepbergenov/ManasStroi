@@ -158,10 +158,6 @@ async function loadMaterials() {
     // берем именно массив
     let materials = data.materials;
 
-    if (isHomePage) {
-      materials = materials.slice(0, 6);
-    }
-
     renderMaterials(materials, grid);
     initCatalogFilters();
 
