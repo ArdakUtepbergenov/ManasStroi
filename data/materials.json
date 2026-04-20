@@ -2,6 +2,42 @@
   "materials": [
     {
       "id": 1,
+      "name": "Астана Мрамор",
+      "category": "paving",
+      "price": "7500",
+      "unit": "м²",
+      "description": "Мраморная брусчатка Астана. Толщина брусчатки 4 см.",
+      "image": "data/astana_mramor.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Атырау Мрамор",
+      "category": "paving",
+      "price": "8000",
+      "unit": "м²",
+      "description": "Высококачественная мраморная брусчатка Атырау. Толщина брусчатки 5 см.",
+      "image": "data/atyrau_mramor.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Паркет Мрамор",
+      "category": "paving",
+      "price": "7500",
+      "unit": "м²",
+      "description": "Очень красивый мраморный паркет. Толщина паркета 4 см.",
+      "image": "data/parket_mramor.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Каменный цветок",
+      "category": "paving",
+      "price": "7500",
+      "unit": "м²",
+      "description": "Высококачественная брусчатка Каменный цветок. Толщина брусчатки 4 см.",
+      "image": "data/kamennyi_cvetok.jpeg"
+    },
+    {
+      "id": 5,
       "name": "Хайтек мрамор",
       "category": "paving",
       "price": "5500",
@@ -10,7 +46,7 @@
       "image": "data/hitech_mramor.jpg"
     },
     {
-      "id": 2,
+      "id": 6,
       "name": "Хайтек бесцветный",
       "category": "paving",
       "price": "4500",
@@ -19,7 +55,7 @@
       "image": "data/hitech_bescvet.png"
     },
     {
-      "id": 3,
+      "id": 7,
       "name": "Тасқала мрамор",
       "category": "paving",
       "price": "5500",
@@ -28,7 +64,7 @@
       "image": "data/taskala_mramor.jpg"
     },
     {
-      "id": 4,
+      "id": 8,
       "name": "Тасқала бесцветный",
       "category": "paving",
       "price": "4500",
@@ -37,7 +73,7 @@
       "image": "data/taskala_bescvet.png"
     },
     {
-      "id": 5,
+      "id": 9,
       "name": "Прокурор цветной",
       "category": "paving",
       "price": "5000",
@@ -46,7 +82,7 @@
       "image": "data/prokuror_cvet.jpg"
     },
     {
-      "id": 6,
+      "id": 10,
       "name": "Астана бесцветный",
       "category": "paving",
       "price": "4500",
@@ -55,7 +91,7 @@
       "image": "data/astana_bescvet.jpg"
     },
     {
-      "id": 7,
+      "id": 11,
       "name": "Астана цветной",
       "category": "paving",
       "price": "5000",
@@ -64,7 +100,7 @@
       "image": "data/astana_cvet.jpg"
     },
     {
-      "id": 8,
+      "id": 12,
       "name": "Бордюр гладкий",
       "category": "paving",
       "price": "2000",
@@ -73,7 +109,7 @@
       "image": "data/bordur_glad.jpg"
     },
     {
-      "id": 9,
+      "id": 13,
       "name": "Бордюр полосатый",
       "category": "paving",
       "price": "2000",
@@ -82,7 +118,7 @@
       "image": "data/bordur_polo.jpg"
     },
     {
-      "id": 10,
+      "id": 14,
       "name": "Каменный цветок мрамор",
       "category": "paving",
       "price": "5500",
@@ -91,7 +127,7 @@
       "image": "data/camencvet_mramor.png"
     },
     {
-      "id": 11,
+      "id": 15,
       "name": "Каменный цветок цветной",
       "category": "paving",
       "price": "5500",
@@ -100,7 +136,7 @@
       "image": "data/camencvet_cvet.jpg"
     },
     {
-      "id": 12,
+      "id": 16,
       "name": "Лабиринт мрамор цветной",
       "category": "paving",
       "price": "6000",
@@ -109,7 +145,7 @@
       "image": "data/labirint_cvet.jpg"
     },
     {
-      "id": 13,
+      "id": 17,
       "name": "Лабиринт мрамор бесцветный",
       "category": "paving",
       "price": "6000",
@@ -118,7 +154,7 @@
       "image": "data/labirint_bescvet.jpg"
     },
     {
-      "id": 14,
+      "id": 18,
       "name": "Прокурор бесцветный",
       "category": "paving",
       "price": "4500",
@@ -127,7 +163,7 @@
       "image": "data/prokuror_bescvet.jpg"
     },
     {
-      "id": 15,
+      "id": 19,
       "name": "Прокурор",
       "category": "paving",
       "price": "4500",
@@ -136,7 +172,7 @@
       "image": "data/prokuror.jpg"
     },
     {
-      "id": 16,
+      "id": 20,
       "name": "Хайтек",
       "category": "paving",
       "price": "5000",
