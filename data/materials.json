@@ -10,7 +10,7 @@
       "image": "data/hitech_mramor.jpg"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Тасқала мрамор",
       "category": "paving",
       "price": "5500",
@@ -19,7 +19,7 @@
       "image": "data/taskala_mramor.jpg"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Тасқала бесцветный",
       "category": "paving",
       "price": "4500",
@@ -28,7 +28,7 @@
       "image": "data/taskala_bescvet.jpg"
     },
     {
-      "id": 7,
+      "id": 4,
       "name": "Астана цветной",
       "category": "paving",
       "price": "5000",
@@ -37,7 +37,7 @@
       "image": "data/astana_cvet.jpg"
     },
     {
-      "id": 8,
+      "id": 5,
       "name": "Бордюр гладкий",
       "category": "paving",
       "price": "2000",
@@ -46,7 +46,7 @@
       "image": "data/bordur_glad.jpg"
     },
     {
-      "id": 9,
+      "id": 6,
       "name": "Бордюр полосатый",
       "category": "paving",
       "price": "2000",
@@ -55,7 +55,7 @@
       "image": "data/bordur_polo.jpg"
     },
     {
-      "id": 10,
+      "id": 7,
       "name": "Каменный цветок мрамор",
       "category": "paving",
       "price": "5500",
@@ -64,7 +64,7 @@
       "image": "data/camencvet_mramor.jpg"
     },
     {
-      "id": 16,
+      "id": 8,
       "name": "Хайтек цветной комбинация",
       "category": "paving",
       "price": "5000",
@@ -73,7 +73,7 @@
       "image": "data/hitech.jpg"
     },
     {
-      "id": 17,
+      "id": 9,
       "name": "Астана",
       "category": "paving",
       "price": "4500",
@@ -82,7 +82,7 @@
       "image": "data/astana.jpg"
     },
     {
-      "id": 18,
+      "id": 10,
       "name": "Тасқала мрамор",
       "category": "paving",
       "price": "5500",
@@ -91,7 +91,7 @@
       "image": "data/taskala_mramor2.jpg"
     },
     {
-      "id": 19,
+      "id": 11,
       "name": "Прокурор однотонный",
       "category": "paving",
       "price": "5000",
@@ -100,7 +100,7 @@
       "image": "data/prokuror_odnoton.jpg"
     },
     {
-      "id": 20,
+      "id": 12,
       "name": "Каменный цветок мрамор",
       "category": "paving",
       "price": "5500",
@@ -109,7 +109,7 @@
       "image": "data/camencvet_mramor2.jpg"
     },
     {
-      "id": 21,
+      "id": 13,
       "name": "Каменный цветок мрамор",
       "category": "paving",
       "price": "5500",
@@ -118,7 +118,7 @@
       "image": "data/camencvet_mramor3.jpg"
     },
     {
-      "id": 22,
+      "id": 14,
       "name": "Хайтек мрамор",
       "category": "paving",
       "price": "5500",
@@ -128,7 +128,7 @@
     }
     ,
     {
-      "id": 23,
+      "id": 15,
       "name": "Тасқала цветной",
       "category": "paving",
       "price": "5000",
